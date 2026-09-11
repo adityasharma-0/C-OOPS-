@@ -9,7 +9,7 @@ public:
 	Cricketer(){
 	}
 		
-	Cricketer(string s, int m){
+	Cricketer(string name, int run){
 		this->name = name;  // used for same variable as constructor 
 		this->run = run;
 	}
